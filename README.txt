@@ -53,7 +53,7 @@ It processes raw text data and predicts sentiment with high accuracy.
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/surajyadav98-ai/sentiment-analysis-rnn.git
 cd repo-name
 pip install -r requirements.txt
 python main.py
